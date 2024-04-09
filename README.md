@@ -4,7 +4,7 @@
 
 * Curso: **Data Science - Santander Coders 2023 | 2º Semestre**
 * Módulo: **Estatística I**
-* **ADA Tech** em parceira com **Banco Santander**
+* **ADA Tech** em parceria com **Banco Santander**
 * Facilitador: **Lucas Hermeto**
 
 ## Aluno: **Anderson Miranda - ID: 1116003**
